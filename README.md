@@ -4,16 +4,16 @@ A full-stack web application designed to manage insurance operations such as pol
 
 🛠️ Technologies Used
 
-Frontend: HTML5, CSS3, JavaScript
-Backend: Python, Flask
-Database: PostgreSQL
+- Frontend: HTML5, CSS3, JavaScript
+- Backend: Python, Flask
+- Database: PostgreSQL
 
 🚀 Features
 
-User Registration & Login
-Add and View Insurance Policies
-File Insurance Claims
-View Filed Claims
+- User Registration & Login
+- Add and View Insurance Policies
+- File Insurance Claims
+- View Filed Claims
 
 📦 Project Setup and Run Instructions
 
@@ -41,8 +41,8 @@ pip install flask psycopg2-binary sqlalchemy
 
 4. Configure the Database
 
-Make sure PostgreSQL is installed and running.
-Create a PostgreSQL database:
+- Make sure PostgreSQL is installed and running.
+- Create a PostgreSQL database:
 
 CREATE DATABASE insurance_db;
 
