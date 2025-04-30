@@ -1,1 +1,2 @@
-# Insurance-Management-System
+# insurance-management-system
+Final Semester Group Project
