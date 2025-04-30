@@ -47,7 +47,6 @@ pip install flask psycopg2-binary sqlalchemy
 CREATE DATABASE insurance_db;
 
 Update your app.py or config.py file with your database URI:
-
 SQLALCHEMY_DATABASE_URI = 'postgresql://username:password@localhost/insurance_db'
 
 Replace username, password, and insurance_db as per your setup.
