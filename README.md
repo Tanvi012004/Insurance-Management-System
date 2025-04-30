@@ -65,10 +65,12 @@ flask run
 
 The application will be accessible at https://insurance-management-system-hdqa.onrender.com/
 
+Screenshots:
 
-
-
-
-
-
-
+![image1](https://github.com/user-attachments/assets/e04b2faf-63d7-4be5-bfb9-857e50f67d9b)
+![image2](https://github.com/user-attachments/assets/c7787d19-6239-45de-bb45-999ed827ef8c)
+![image3](https://github.com/user-attachments/assets/150e4ce4-968c-4f92-98b2-bd10d6a835df)
+![image4](https://github.com/user-attachments/assets/49599951-1788-43d3-8e81-91b10afa6030)
+![image5](https://github.com/user-attachments/assets/a61d46f2-8948-42a7-8df0-eaf89c7f70bf)
+![image6](https://github.com/user-attachments/assets/d86935ed-7d23-419a-b5c0-bb59b44b6a0d)
+![image7](https://github.com/user-attachments/assets/71e411ae-c25c-41fb-97e8-bc1c9fdbd1fd)
